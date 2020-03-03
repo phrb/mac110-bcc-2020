@@ -10,5 +10,5 @@ discutidos em aula.
 O professor do curso é o Alfredo (/gold@ime.usp.br/).
 
 ** Conteúdo
-- Aulas
+- [[file:./aulas.html][Aulas]]
 - EPs

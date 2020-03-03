@@ -1,0 +1,112 @@
+#+STARTUP: overview indent inlineimages logdrawer
+#+OPTIONS: toc:nil TeX:t LaTeX:t
+#+LANGUAGE: es
+
+* Lista de Aulas
+Aqui você encontra /links/ para os /slides/ apresentados em aula, e também para todo
+o material complementar discutido em sala,  como livros, /sites/, vídeos, e demais
+recursos.
+
+#+TOC: headlines 2
+
+** Aula 1 - Computação sem Computador & Problemas de Lógica (02/03/2020)
+*** Vídeos
+- [[https://www.youtube.com/watch?v=FN2RM-CHkuI][Como fazer um sanduíche?]] (Legendas em Inglês)
+  - Selecione "tradução automática" e escolha Português
+- [[https://www.youtube.com/watch?v=rrkrvAUbU9Y][The Puzzle of Motivation, Problema da Vela]] (Legendas em Português)
+*** Problemas de Lógica
+- [[https://www.geniol.com.br/logica/desafios/][Desafios de Lógica no Site Geniol]]
+- Alguns desafios:
+  - [[https://www.geniol.com.br/logica/desafios/casais-de-ferias/][Casais de Férias]]
+  - [[https://www.geniol.com.br/logica/desafios/vizinhanca-em-perigo/][Vizinhança em Perigo]]
+*** Batalha Naval
+A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
+- [[https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf][Versão em Português]]
+- [[https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf][Versão completa em Inglês]]
+** Aula 2 - Uma Breve História da Computação (04/03/2020)
+*** Computação & Ciência: mini-EP1
+1. *Encontre* um exemplo de *pesquisa científica* que:
+   - Desperte o *seu interesse*
+   - Tenha sido *facilitado* ou *tornado possível* pela *computação moderna*
+     - *Sensores*, *satélites*, *volume de dados*, *simulações*, \dots
+2. *Escreva um parágrafo* resumindo a pesquisa
+   - Inclua *links* para a pesquisa
+3. *Entregue* no *PACA*. Alguns *pontos importantes*:
+   - Formato do arquivo *deve ser =pdf=*
+   - Nome do arquivo deve ser no formato =SEU_NOME_miniEP1.pdf=
+   - Usar *corretor ortográfico*
+   - Até a *próxima Sexta, 09/08*
+*** Nuvens de Palavras e Perguntas ao Vivo
+1. Vá até https://menti.com
+2. Use o código =95 16 17=
+*** Recursos Extras
+**** Visão Geral sobre Computação
+***** Computação & Arquitetura de Hardware
+1. [[http://lig-membres.imag.fr/krakowia/Files/Enseignement/Histoire-Informatique/Cours/index.html][Curso inteiro]] sobre História da Computação (em Francês)
+2. [[https://www.ime.usp.br/~song/mac344/slides02-evolution.pdf][Aula do Prof. Siang]], da USP
+***** Linguagens de Programação
+1. [[http://rigaux.org/language-study/diagram.html][Site do Pascal Rigaux]]: Contém árvores genealógicas da evolução das linguagens
+   de programação feitas pelo Rigaux, e links para outras árvores.
+   1. [[./img/programming_language_tree.png][Árvore anotada vista em aula]] (png)
+   2. [[./img/programming_language_tree.svg][Árvore anotada vista em aula]] (svg, vetorial editável)
+***** Livros
+1. [[https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software][Code: The Hidden Language of Computer Hardware and Software]]
+2. [[https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood][The Information: A History, a Theory, a Flood]]
+3. [[https://www.amazon.com/New-Turing-Omnibus-Sixty-Six-Excursions/dp/0805071660][The New Turing Omnibus]]
+***** Mais links
+****** Aplicativo com o Ábaco Soroban
+- [[https://play.google.com/store/apps/details?id=br.net.btco.soroban&hl=en_US][Simple Soroban]]
+****** O que é computação?
+1. [[https://en.wikipedia.org/wiki/Quantum_computing][Quantum computing]]
+2. [[https://en.wikipedia.org/wiki/DNA_computing][DNA computing]]
+3. [[https://en.wikipedia.org/wiki/Wetware_computer][Wetware computer]]
+4. [[https://en.wikipedia.org/wiki/Molecular_electronics][Molecular electronics]]
+5. [[https://en.wikipedia.org/wiki/Membrane_computing][Membrane computing]]
+****** Outros
+1. https://www.livescience.com/20718-computer-history.html
+2. https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm
+3. https://en.wikipedia.org/wiki/Computer
+4. https://www.computerhistory.org/
+5. https://www.computerhistory.org/timeline/
+**** Melhores/Piores Usos
+*Melhores* usos:
+1. Desenvolvimento de *fármacos*
+2. Mapeamento do *cérebro humano*
+3. Simulações *climáticas* e *sísmicas*
+4. *Planejamento urbano*
+5. *Astrofísica* e *Cosmologia*
+6. Você pode baixar o =pdf= do relatório da Comissão Europeia [[http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=49301][aqui]]
+
+*Piores* usos, alguns *livros interessantes*:
+1. [[https://weaponsofmathdestructionbook.com/][Weapons of Math Destruction]] (2017)
+2. [[https://www.schneier.com/books/data_and_goliath/][Data and Goliath]] (2015)
+3. [[https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism][The Age of Surveillance Capitalism]] (2018)
+**** Computação na Cultura
+***** Livros
+1. [[https://pt.wikipedia.org/wiki/Neuromancer][Neuromancer]] (Um dos romances fundadores do /cyberpunk/)
+2. [[https://pt.wikipedia.org/wiki/The_Difference_Engine][A Máquina Diferencial]] (Um dos romances fundadores do /steampunk/, sobre Babbage e Ada)
+3. [[https://en.wikipedia.org/wiki/Ware_Tetralogy][The Ware Tetralogy]] (1982 -- 2000)
+4. [[https://en.wikipedia.org/wiki/Postsingular][Postsingular]] (2007)
+5. [[http://www.rudyrucker.com/hylozoic/][Hylozoic]] (2009)
+6. [[https://pt.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach][Godel, Escher, Bach]] (Um livro diferente)
+7. [[https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop][I Am a Strange Loop]]
+8. [[https://en.wikipedia.org/wiki/Snow_Crash][Snow Crash]]
+***** Filmes
+1. [[https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)][2001: A Space Odyssey]] (1968)
+2. [[https://en.wikipedia.org/wiki/Tron][Tron]] (1982)
+3. [[https://en.wikipedia.org/wiki/WarGames][WarGames]] (1983)
+4. [[https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)][Ghost in the Shell]] (1995)
+5. [[https://en.wikipedia.org/wiki/Hackers_(film)][Hackers]] (1995)
+6. [[https://en.wikipedia.org/wiki/The_Matrix][The Matrix]] (1999)
+7. [[https://en.wikipedia.org/wiki/Office_Space][Office Space]] (1999)
+8. [[https://en.wikipedia.org/wiki/Swordfish_(film)][Swordfish]] (2001)
+9. [[https://en.wikipedia.org/wiki/Source_Code][Source Code]] (2011)
+10. [[https://www.youtube.com/watch?v=eTOKXCEwo_8][TPB AFK]] (2013)
+11. [[https://en.wikipedia.org/wiki/Ex_Machina_(film)][Ex Machina]] (2014)
+12. [[https://en.wikipedia.org/wiki/Transcendence_(2014_film)][Transcendence]] (2014)
+13. [[https://en.wikipedia.org/wiki/Citizenfour][Citizenfour]] (2014)
+14. [[https://en.wikipedia.org/wiki/The_Imitation_Game][The Imitation Game]] (2014)
+***** Vídeos
+1. [[https://www.youtube.com/playlist?list=PLZioPDnFPNsHnyxfygxA0to4RXv4_jDU2][Antikythera reconstruction]]
+2. [[https://www.youtube.com/watch?v=Z5JC9Ve1sfI][What's you computer actually doing?]]
+3. [[https://www.youtube.com/watch?v=Tr9E_vzKRVo][The history of programming]]

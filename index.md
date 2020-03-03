@@ -14,5 +14,5 @@ O professor do curso é o Alfredo (*gold@ime.usp.br*).
 
 ## Conteúdo
 
--   Aulas
+-   [Aulas](./aulas.html)
 -   EPs
