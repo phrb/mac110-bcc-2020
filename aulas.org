@@ -1,5 +1,8 @@
 #+STARTUP: overview indent inlineimages logdrawer
+#+TAGS: noexport(n)
 #+OPTIONS: toc:nil TeX:t LaTeX:t
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
 #+LANGUAGE: es
 
 * Lista de Aulas
@@ -24,7 +27,7 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
 - [[https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf][Versão em Português]]
 - [[https://classic.csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf][Versão completa em Inglês]]
 ** Aula 2 - Uma Breve História da Computação (04/03/2020)
-*** Computação & Ciência: mini-EP1
+*** Computação & Ciência: mini-EP1                               :noexport:
 1. *Encontre* um exemplo de *pesquisa científica* que:
    - Desperte o *seu interesse*
    - Tenha sido *facilitado* ou *tornado possível* pela *computação moderna*
@@ -36,10 +39,8 @@ A atividade *Batalha Naval* veio do livro *Computação sem Computador*:
    - Nome do arquivo deve ser no formato =SEU_NOME_miniEP1.pdf=
    - Usar *corretor ortográfico*
    - Até a *próxima Sexta, 09/08*
-*** Nuvens de Palavras e Perguntas ao Vivo
-1. Vá até https://menti.com
-2. Use o código =95 16 17=
 *** Recursos Extras
+#+TOC: headlines 3 local
 **** Visão Geral sobre Computação
 ***** Computação & Arquitetura de Hardware
 1. [[http://lig-membres.imag.fr/krakowia/Files/Enseignement/Histoire-Informatique/Cours/index.html][Curso inteiro]] sobre História da Computação (em Francês)
